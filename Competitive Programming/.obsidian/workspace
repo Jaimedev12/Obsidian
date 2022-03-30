@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "1310d71799cb695c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6b3ff0497371d84",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tips & Tricks.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7391d2c54eeeeef8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f40770cbf2dff5ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3259ddcead93d82e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "28347510bc017bf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "034ba5d593b998c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "edb223557e766d26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d67b4b0498660c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tips & Tricks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6b3ff0497371d84",
+  "lastOpenFiles": [
+    "Tips & Tricks.md",
+    "Untitled 1.md",
+    "Tips & Tricks.md"
+  ]
+}
